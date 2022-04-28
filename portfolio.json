@@ -1,0 +1,10 @@
+{
+  "items": [
+    {
+      "title": "This is the title",
+      "description": "This is the description",
+      "image": "http://placekitten.com/200/200",
+      "slug": "painting"
+    }
+  ]
+}
